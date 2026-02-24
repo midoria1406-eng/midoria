@@ -1,0 +1,4 @@
+ttkbootstrap
+openpyxl
+pandas
+Pillow
